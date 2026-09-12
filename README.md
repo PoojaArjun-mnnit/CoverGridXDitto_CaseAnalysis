@@ -8,7 +8,7 @@ CoverGrid provides Ditto access to **640 employers and ~5.8 lakh employees & dep
 
 However, CoverGrid's **42 NPS** highlights a customer-trust gap, creating both a strategic opportunity and an integration risk.
 
-The proposed transaction included **30% equity in the combined entity + ₹25 Cr upfront cash**, with founders retained for 3 years and the CoverGrid brand retained for 18 months. :contentReference[oaicite:1]{index=1}
+The proposed transaction included **30% equity in the combined entity + ₹25 Cr upfront cash**, with founders retained for 3 years and the CoverGrid brand retained for 18 months
 
 ---
 
@@ -23,7 +23,7 @@ We evaluated **6 strategic alternatives**:
 5. Strategic partnership
 6. Walk away
 
-The alternatives were assessed across **financial value, customer trust, employer stickiness, revenue synergy, regulatory risk, control, and execution risk**. :contentReference[oaicite:2]{index=2}
+The alternatives were assessed across **financial value, customer trust, employer stickiness, revenue synergy, regulatory risk, control, and execution risk**. 
 
 ### Key Strategic Insight
 
@@ -50,8 +50,7 @@ The synergy model estimated:
 | Base      | 7%              | ₹6.09 Cr        |
 | Upside    | 10%             | ₹8.70 Cr        |
 
-The synergy estimates are illustrative and based on stated assumptions and benchmarks. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
-
+The synergy estimates are illustrative and based on stated assumptions and benchmarks.
 ---
 
 ## 🚀 Recommendation
@@ -68,7 +67,7 @@ Instead of committing capital immediately, we recommend a **24-month strategic p
 - **Regulatory → Zero material IRDAI flags**
 - **Revenue synergy → Run-rate vs. plan**
 
-If the KPIs are achieved, proceed toward **51% acquisition**. A narrow miss allows a **12-month extension**, while a material miss triggers an exit/put mechanism. :contentReference[oaicite:5]{index=5}
+If the KPIs are achieved, proceed toward **51% acquisition**. A narrow miss allows a **12-month extension**, while a material miss triggers an exit/put mechanism. 
 
 ---
 
@@ -102,7 +101,7 @@ Key risks addressed:
 - Valuation and execution risk
 - Failure to realize projected synergies
 
-The model uses **monthly KPI dashboards, quarterly business reviews, and predefined exit triggers** to keep the acquisition decision performance-linked. :contentReference[oaicite:6]{index=6}
+The model uses **monthly KPI dashboards, quarterly business reviews, and predefined exit triggers** to keep the acquisition decision performance-linked. 
 
 ---
 
