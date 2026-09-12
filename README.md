@@ -6,7 +6,7 @@
 
 CoverGrid provides Ditto access to **640 employers and ~5.8 lakh employees & dependents**, while Ditto brings a trust-first advisory model with **74 NPS, 91% satisfaction, and 88% policy renewal**.
 
-However, CoverGrid's **42 NPS** highlights a customer-trust gap, creating both a strategic opportunity and an integration risk. :contentReference[oaicite:0]{index=0}
+However, CoverGrid's **42 NPS** highlights a customer-trust gap, creating both a strategic opportunity and an integration risk.
 
 The proposed transaction included **30% equity in the combined entity + ₹25 Cr upfront cash**, with founders retained for 3 years and the CoverGrid brand retained for 18 months. :contentReference[oaicite:1]{index=1}
 
